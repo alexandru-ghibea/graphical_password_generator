@@ -1,8 +1,8 @@
-Use the graphical password generator to save your important files.
+Password generator app.
 
-You can set your desider email address 1 time only by modifing code line 66 and add your email id to not insert it each time
+You can set your  email address one time only by modifing code line 66 and add your email id to not insert it each time (see bellow)
 
-e.g: email_entry.insert(END, string="populate your email address here")
+e.g: email_entry.insert(END, string="x@gmail.com")
 
 Website,passwords and email ids will be saved in the saved_passwords.txt file for future use
 
