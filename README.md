@@ -4,9 +4,12 @@ You can set your email address one time only by modifing code line 66 and add yo
 
 e.g: email_entry.insert(END, string="x@gmail.com")
 
-All entries are saved in the saved_passwords.txt file for future use
+All entries are saved in the saved_passwords.json file.
+
+Search function implemented to find the passwords.
 
 Enjoy!
 
 
-<img width="567" alt="Screen Shot 2022-06-25 at 15 06 08 PM" src="https://user-images.githubusercontent.com/98416718/175772977-b31af8c0-5d1d-47cc-be51-85019c4af620.png">
+
+<img width="545" alt="Screen Shot 2022-06-25 at 19 08 57 PM" src="https://user-images.githubusercontent.com/98416718/175781759-a35df3be-a58c-4baf-b57a-bc6959606f24.png">
